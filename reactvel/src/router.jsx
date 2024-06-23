@@ -26,7 +26,7 @@ const router = createBrowserRouter([
         ]
     },
     {
-        path: '/guest',
+        path: '/',
         element: <GuestLayout />,
         children: [
             {

@@ -1,0 +1,7 @@
+function SurveyListItem() {    
+    return (       
+       <div>SurveyListItem</div>
+    )
+}
+
+export default SurveyListItem
